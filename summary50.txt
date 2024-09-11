@@ -1,0 +1,4 @@
+The paper "Speech Commands: A Dataset for Limited-Vocabulary Speech Recognition" introduces a dataset designed for training models in keyword detection and limited-vocabulary speech recognition tasks. It contains over 65,000 one-second audio clips of 30 short words, spoken by thousands of individuals. The dataset aims to support the development of voice-activated systems and low-latency speech interfaces. It includes background noise samples, enabling more robust and diverse model training.
+
+
+
